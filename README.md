@@ -21,7 +21,7 @@ Insurance accounting program
 
 
 ## Application Flow
-![Alt text](https://drive.google.com/open?id=0B9B0ZDdhNK39dk9XNW5fbDJxUjQ)
+![Alt text](https://github.com/jirayu88/BIS/blob/master/Project%20Scope.png)
 
 
 
